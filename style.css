@@ -611,6 +611,11 @@ span{
       width: 100%;
     }
   }
+ @media (max-width: 767px) {
+     .card-img {
+         height: 340px;
+     }
+ }
   
   /* Tablets and small desktops */
   @media (min-width: 769px) and (max-width: 1024px) {
