@@ -597,20 +597,6 @@ span{
 }
 
 /* Mobile devices */
-@media (max-width: 768px) {
-    .navbar {
-      flex-direction: column;
-    }
-    
-    .home-content, .home-img {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .home-img img {
-      width: 100%;
-    }
-  }
  @media (max-width: 767px) {
      .card-img {
          height: 340px;
