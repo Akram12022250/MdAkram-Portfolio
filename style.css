@@ -734,8 +734,7 @@ html {
 }
 @media (max-width: 767px) {
     .card-img {
-        height: 310px;
-        width: 100px;
+        height: 300px;
     }
 }
 .card:hover {
